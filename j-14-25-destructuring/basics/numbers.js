@@ -1,12 +1,12 @@
-let age = 26
-let dogYears = (age + 1) / 7
+const age = 26;
+const dogYears = (age + 1) / 7;
 
-console.log(dogYears)
+console.log(dogYears);
 
 // Challenge area
 
-let studentScore = 41
-let maxScore = 100
-let percent = (studentScore / maxScore) * 100
+const studentScore = 41;
+const maxScore = 100;
+const percent = (studentScore / maxScore) * 100;
 
-console.log(percent)
+console.log(percent);
